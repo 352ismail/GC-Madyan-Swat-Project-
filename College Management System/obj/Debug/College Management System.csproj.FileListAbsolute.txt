@@ -1,0 +1,862 @@
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\College Management System.exe.config
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\DataSets\CMS.mdf
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\DataSets\CMS_log.ldf
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\College Management System.exe.manifest
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\College Management System.application
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\College Management System.exe
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\College Management System.pdb
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\AForge.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\AForge.Video.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\FlashControlV71.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\stdole.dll
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\AForge.xml
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\AForge.Video.xml
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmBatch.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmBatchRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmEmployeeAttendance.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmEmployeeAttendanceRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.Forms.frmPersonalLedger.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.Forms.frmPersonalLedgerRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmEvent.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmEventRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmGPACalculator.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmIdCard.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmIdCardRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmIdCardRpt.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmSubjectResult.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmSubjectResultRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmReports.frmPersonalLedgerReport.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmSemesterResultReport.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmEmployeeRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmSemesterFeeReport.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmSemesterFeePaymentRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmSemesterFeePaymentReport.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmHostel.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmHostelers.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmHostelersRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmHostelFeePayment.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmHostelFeePaymentRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmHostelFeePaymentReport.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmHostelRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmLogin.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmLoginDetails.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmUserRegistrationRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmRegistrationForm.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmStudentRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmStudentRegistrationRecord1.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmStudentsRegistrationReport.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmOtherTransactionRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmTranscriptReport.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmSemester.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmSemesterRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmSplash.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmAbout.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmChangePassword.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmContact.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmCourse.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmClassRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmEmployeeDetails.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmSemesterFee.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmSemesterFeeRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmSemesterFeePayment.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmOtherTransaction.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmMainMenu.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmRecoveryPassword.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmStudent.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmStudentRegistration.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmStudentReport.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmSubjectInfo.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmSubjectInfoRecord.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmUserRegistration.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.frmPrintOptions.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College Management System.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College Management System.exe.manifest
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College Management System.application
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College Management System.exe
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College Management System.pdb
+C:\Users\hp\Desktop\CLass No - Copy\College Management System\obj\Debug\College Management System.csprojResolveAssemblyReference.cache
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\College Management System.exe.config
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College Management System.exe
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College Management System.pdb
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\DataSets\CMS.mdf
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\DataSets\CMS_log.ldf
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\College Management System.exe.manifest
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\College Management System.application
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\College Management System.exe
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\College Management System.pdb
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\AForge.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\AForge.Video.DirectShow.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\AForge.Video.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\CrystalDecisions.Shared.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\FlashControlV71.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\ShockwaveFlashObjects.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\stdole.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\AForge.xml
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\AForge.Video.xml
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\bin\Debug\AForge.Video.DirectShow.xml
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College Management System.csprojResolveAssemblyReference.cache
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmBatch.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmBatchRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmEmployeeAttendance.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmEmployeeAttendanceRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmPersonalLedger.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmPersonalLedgerRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmEvent.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmEventRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmGPACalculator.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmIdCard.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmIdCardRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmIdCardRpt.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmSubjectResult.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmSubjectResultRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmReports.frmPersonalLedgerReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterResultReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmEmployeeRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeeReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeePaymentRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeePaymentReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmHostel.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelers.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelersRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelFeePayment.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelFeePaymentRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelFeePaymentReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmLogin.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmLoginDetails.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmUserRegistrationRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmRegistrationForm.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentRegistrationRecord1.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentsRegistrationReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmOtherTransactionRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmTranscriptReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmSemester.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmSplash.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmAbout.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmChangePassword.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmContact.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmCourse.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmClassRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmEmployeeDetails.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFee.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeeRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeePayment.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmOtherTransaction.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmMainMenu.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmRecoveryPassword.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmStudent.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentRegistration.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmSubjectInfo.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmSubjectInfoRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmUserRegistration.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.frmPrintOptions.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College Management System.csproj.GenerateResource.Cache
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College Management System.exe.manifest
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System II\CMSII\College Management System\obj\Debug\College Management System.application
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmExamTypes.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmBatch.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmBatchRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEmployeeAttendance.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEmployeeAttendanceRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmPersonalLedger.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmRecords.frmEventManagedBy.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmPersonalLedgerRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEvent.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEventRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmGPACalculator.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmIdCard.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmIdCardRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmSemesterSubjects.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmSemesterSubjectsRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSubjectResult.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSubjectResultRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmReports.frmPersonalLedgerReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterResultReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEmployeeRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeeReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeePaymentRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeePaymentReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostel.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelers.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelersRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelFeePayment.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelFeePaymentRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelFeePaymentReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmLogin.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmLoginDetails.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmUserRegistrationRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmRegistrationForm.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentRegistrationRecord1.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentsRegistrationReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmOtherTransactionRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmTranscriptReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemester.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSplash.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmAbout.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmChangePassword.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmContact.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmCourse.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmClassRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEmployeeDetails.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFee.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeeRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeePayment.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmOtherTransaction.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmMainMenu.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmRecoveryPassword.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudent.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentRegistration.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSubjectInfo.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSubjectInfoRecord.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmUserRegistration.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmPrintOptions.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.csproj.GenerateResource.Cache
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\College Management System.exe.config
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\College Management System.exe.manifest
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\College Management System.application
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\College Management System.exe
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\College Management System.pdb
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\AForge.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\AForge.Video.DirectShow.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\AForge.Video.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.Shared.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\FlashControlV71.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\ShockwaveFlashObjects.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\stdole.dll
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\AForge.xml
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\AForge.Video.xml
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\AForge.Video.DirectShow.xml
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.exe.manifest
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.application
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.exe
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.pdb
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmReports.frmIdCardReport.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmAssignedClasses.resources
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.csprojResolveAssemblyReference.cache
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\College Management System.exe.config
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.exe
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.pdb
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\College Management System.exe.manifest
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\College Management System.application
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\College Management System.exe
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\College Management System.pdb
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\FlashControlV71.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\stdole.dll
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\AForge.xml
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\AForge.Video.xml
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.csprojResolveAssemblyReference.cache
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmAssignedClasses.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmExamTypes.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmBatch.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmBatchRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEmployeeAttendance.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEmployeeAttendanceRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmPersonalLedger.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmRecords.frmEventManagedBy.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmPersonalLedgerRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEvent.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEventRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmGPACalculator.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmIdCard.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmIdCardRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmSemesterSubjects.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmSemesterSubjectsRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSubjectResult.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSubjectResultRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmReports.frmIdCardReport.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmReports.frmPersonalLedgerReport.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterResultReport.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEmployeeRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeeReport.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeePaymentRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeePaymentReport.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostel.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelers.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelersRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelFeePayment.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelFeePaymentRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelFeePaymentReport.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmLogin.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmLoginDetails.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmUserRegistrationRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmRegistrationForm.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentRegistrationRecord1.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentsRegistrationReport.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmOtherTransactionRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmTranscriptReport.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemester.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSplash.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmAbout.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmChangePassword.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmContact.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmCourse.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmClassRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEmployeeDetails.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFee.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeeRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeePayment.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmOtherTransaction.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmMainMenu.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmRecoveryPassword.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudent.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentRegistration.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentReport.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSubjectInfo.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSubjectInfoRecord.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmUserRegistration.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmPrintOptions.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.csproj.GenerateResource.Cache
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.exe.manifest
+C:\Users\IMRAN KHAN\Desktop\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.application
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\College Management System.exe.config
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.exe
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.pdb
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\College Management System.exe.manifest
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\College Management System.application
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\College Management System.exe
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\College Management System.pdb
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\AForge.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\AForge.Video.DirectShow.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\AForge.Video.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.Shared.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\FlashControlV71.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.Smo.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\ShockwaveFlashObjects.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\stdole.dll
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\AForge.xml
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\AForge.Video.xml
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\bin\Debug\AForge.Video.DirectShow.xml
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.csprojResolveAssemblyReference.cache
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmAssignedClasses.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmExamTypes.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmBatch.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmBatchRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEmployeeAttendance.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEmployeeAttendanceRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmPersonalLedger.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmRecords.frmEventManagedBy.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmPersonalLedgerRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEvent.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEventRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmGPACalculator.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmIdCard.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmIdCardRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmSemesterSubjects.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Forms.frmSemesterSubjectsRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSubjectResult.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSubjectResultRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmReports.frmIdCardReport.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmReports.frmPersonalLedgerReport.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterResultReport.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEmployeeRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeeReport.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeePaymentRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeePaymentReport.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostel.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelers.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelersRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelFeePayment.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelFeePaymentRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelFeePaymentReport.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmHostelRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmLogin.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmLoginDetails.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmUserRegistrationRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmRegistrationForm.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentRegistrationRecord1.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentsRegistrationReport.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmOtherTransactionRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmTranscriptReport.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemester.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSplash.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmAbout.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmChangePassword.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmContact.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmCourse.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmClassRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmEmployeeDetails.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFee.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeeRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSemesterFeePayment.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmOtherTransaction.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmMainMenu.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmRecoveryPassword.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudent.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentRegistration.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmStudentReport.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSubjectInfo.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmSubjectInfoRecord.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmUserRegistration.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.frmPrintOptions.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.csproj.GenerateResource.Cache
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.exe.manifest
+H:\Final Year Project (CMS)\College Management System III\CMSII\College Management System\obj\Debug\College Management System.application
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\CMSII\College Management System\bin\Debug\College Management System.exe.config
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\CMSII\College Management System\obj\Debug\College Management System.exe
+D:\8th Semster\FYP CMS\Final Year Project (CMS)\CMSII\College Management System\obj\Debug\College Management System.pdb
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\College Management System.exe.config
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\College Management System.exe.manifest
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\College Management System.application
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\College Management System.exe
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\College Management System.pdb
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\FlashControlV71.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\stdole.dll
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College Management System.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmBatch.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.Forms.frmRegistrationFrom.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.Forms.frmSemesterResult.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmBatchRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmEmployeeAttendance.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmEmployeeAttendanceRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.Forms.frmPersonalLedger.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmRecords.frmEventManagedBy.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmRecords.frmEmployeesRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmRecords.frmEventManagedByRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmRecords.frmEventsRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmRecords.frmHostelerRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmRecords.frmHostelFeesPaymentRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.Forms.frmPersonalLedgerRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmEvent.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmGPACalculator.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmIdCard.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmIdCardRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.Forms.frmSemesterSubjects.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmRecords.frmSemesterFeePaymentRcd.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmRecords.frmSemesterResultRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.Forms.frmSemesterSubjectsRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmSubjectResult.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmRecords.frmStudentsRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmRecords.frmStudetnsRegRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmSubjectResultRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmclearancechit.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmEmployeesReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmFeeCardReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmIdCardReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmPersonalLedgerReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmHostel.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmHostelers.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmHostelFeePayment.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmHostelRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmLogin.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmLoginDetails.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmUserRegistrationRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmSemestersResultReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmSingleEmployeeReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmSingleStudentRecordReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmStudentsRegistrationsReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmOtherTransactionRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmStudentsReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmSubjectResultReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmSemester.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmSemesterRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmSplash.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmAbout.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmChangePassword.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmContact.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmCourse.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmClassRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmEmployeeDetails.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmSemesterFee.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmSemesterFeeRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmSemesterFeePayment.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmOtherTransaction.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmMainMenu.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmStudent.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmStudentRegistration.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmSubjectInfo.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmSubjectInfoRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmUserRegistration.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmPrintOptions.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College Management System.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College Management System.exe.manifest
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College Management System.application
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College Management System.exe
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College Management System.pdb
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.Forms.frmBackUpAndRestore.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmWithdrawalAndAdmission.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmTranscriptReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmSingleSemsterFeePaymentReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmSingleSemesterFeePaymentReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmSingleStudentHostelFeePayement.resources
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\obj\Debug\College_Management_System.frmReports.frmHostelFeePaymentsReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\College Management System.exe.config
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College Management System.exe
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College Management System.pdb
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\College Management System.exe.manifest
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\College Management System.application
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\College Management System.exe
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\College Management System.pdb
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\FlashControlV71.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\Guna.UI2.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\bin\Debug\stdole.dll
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College Management System.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.Forms.frmBackUpAndRestore.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmBatch.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.Forms.frmRegistrationFrom.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.Forms.frmSemesterResult.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmBatchRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmEmployeeAttendance.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmEmployeeAttendanceRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.Forms.frmPersonalLedger.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmRecords.frmEventManagedBy.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmRecords.frmEmployeesRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmRecords.frmEventManagedByRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmRecords.frmEventsRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmRecords.frmHostelerRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmRecords.frmHostelFeesPaymentRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.Forms.frmPersonalLedgerRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmEvent.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmGPACalculator.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmIdCard.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmIdCardRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.Forms.frmSemesterSubjects.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmRecords.frmSemesterFeePaymentRcd.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmRecords.frmSemesterResultRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.Forms.frmSemesterSubjectsRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmSubjectResult.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmRecords.frmStudentsRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmRecords.frmStudetnsRegRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmSubjectResultRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmclearancechit.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmEmployeesReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmFeeCardReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmIdCardReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmPersonalLedgerReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmHostel.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmHostelers.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmHostelFeePayment.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmHostelRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmLogin.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmLoginDetails.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmUserRegistrationRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmSemestersResultReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmSingleEmployeeReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmSingleSemesterFeePaymentReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmSingleSemsterFeePaymentReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmSingleStudentHostelFeePayement.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmSingleStudentRecordReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmStudentsRegistrationsReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmOtherTransactionRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmStudentsReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmSubjectResultReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmTranscriptReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmWithdrawalAndAdmission.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmReports.frmHostelFeePaymentsReport.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmSemester.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmSemesterRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmSplash.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmAbout.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmChangePassword.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmContact.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmCourse.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmClassRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmEmployeeDetails.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmSemesterFee.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmSemesterFeeRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmSemesterFeePayment.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmOtherTransaction.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmMainMenu.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmStudent.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmStudentRegistration.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmSubjectInfo.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmSubjectInfoRecord.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmUserRegistration.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.frmPrintOptions.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College Management System.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College Management System.exe.manifest
+C:\Users\hp\Desktop\College Management System (Final)\Internal Back Up\College Management System\obj\Debug\College Management System.application
+C:\Users\hp\Desktop\College Management System (Final)\College Management System\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\College Management System.exe.config
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College Management System.exe
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College Management System.pdb
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\College Management System.exe.manifest
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\College Management System.application
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\College Management System.exe
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\College Management System.pdb
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\FlashControlV71.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\bin\Debug\stdole.dll
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College Management System.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.Forms.frmBackUpAndRestore.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmBatch.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.Forms.frmRegistrationFrom.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.Forms.frmSemesterResult.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmBatchRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmEmployeeAttendance.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmEmployeeAttendanceRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.Forms.frmPersonalLedger.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmRecords.frmEventManagedBy.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmRecords.frmEmployeesRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmRecords.frmEventManagedByRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmRecords.frmEventsRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmRecords.frmHostelerRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmRecords.frmHostelFeesPaymentRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.Forms.frmPersonalLedgerRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmEvent.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmGPACalculator.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmIdCard.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmIdCardRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.Forms.frmSemesterSubjects.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmRecords.frmSemesterFeePaymentRcd.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmRecords.frmSemesterResultRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.Forms.frmSemesterSubjectsRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmSubjectResult.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmRecords.frmStudentsRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmRecords.frmStudetnsRegRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmSubjectResultRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmclearancechit.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmEmployeesReport.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmFeeCardReport.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmIdCardReport.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmPersonalLedgerReport.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmHostel.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmHostelers.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmHostelFeePayment.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmHostelRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmLogin.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmLoginDetails.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmUserRegistrationRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmSemestersResultReport.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmSingleEmployeeReport.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmSingleSemesterFeePaymentReport.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmSingleSemsterFeePaymentReport.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmSingleStudentHostelFeePayement.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmSingleStudentRecordReport.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmStudentsRegistrationsReport.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmOtherTransactionRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmStudentsReport.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmSubjectResultReport.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmTranscriptReport.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmWithdrawalAndAdmission.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmReports.frmHostelFeePaymentsReport.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmSemester.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmSemesterRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmSplash.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmAbout.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmChangePassword.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmContact.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmCourse.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmClassRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmEmployeeDetails.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmSemesterFee.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmSemesterFeeRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmSemesterFeePayment.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmOtherTransaction.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmMainMenu.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmStudent.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmStudentRegistration.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmSubjectInfo.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmSubjectInfoRecord.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmUserRegistration.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.frmPrintOptions.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College Management System.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College Management System.exe.manifest
+C:\Users\hp\Desktop\College Management System GitHub\College Management System\obj\Debug\College Management System.application

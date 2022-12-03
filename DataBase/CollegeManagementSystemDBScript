@@ -1,0 +1,377 @@
+--Department Table
+create table Department
+(
+DepartmentId int identity(1,1) primary key  not null,
+ClassName  nvarchar(50)   null,
+FacultyName  nvarchar(50)   null,
+)
+Insert Department  (ClassName,FacultyName) Values('BS','ComputerScience'),('BS','English'),('BS','MicroBiology'),('BS','Chemistry')
+
+--Semester Table--
+create table Semester     
+(
+SemesterId int Identity(1,1) primary key not null ,
+Description nvarchar(70)   null,
+Season nvarchar(70)   null,
+)
+Insert into Semester (Description,Season) Values('1st','Fall'),('2nd','Spring'),('3rd','Fall'),('4th','Spring'),('5th','Fall'),('6th','Spring'),('7th','Fall'),('8th','Spring')
+
+----Session Table--
+create table Session
+(
+SessionId int identity(1,1) primary key not null ,
+Description nvarchar(50)   null,
+IsActive bit null,
+)
+
+--
+--
+--
+--Subject Table--
+create table Subject   
+(
+SubjectId int identity(1,1) primary key Not null,
+CH int null,
+SubjectName nvarchar(100)   null,
+SubjectCode nvarchar(70)   null,
+)
+create table SubjectDetails  
+
+(
+SubjectDetailsId int identity(1,1) primary key Not null,
+SubjectId int foreign key (SubjectId) references Subject (SubjectId),
+SemesterId int foreign key (SemesterId) references Semester (SemesterId),
+DepartmentId int foreign key (DepartmentId) references Department (DepartmentId),
+SessionId int foreign key (SessionId) references Session (SessionId),
+
+)
+
+
+
+--Employee Table--
+create table Employee
+(
+EmployeeId int identity(1,1) primary key  not null,
+EmployeeName  nvarchar(70)   null,
+Designation nvarchar(90)   null,
+Gender nvarchar(10)   null,
+ContactNo nvarchar(20)   null,
+DateOfJoining nvarchar(50)   null,
+Address nvarchar(150)   null,
+Email nvarchar(70)   null,
+Qualification nvarchar(70)   null,
+Photo Image  null,
+)
+create table EmployeeAttendance
+(
+AttendenceId int Identity(1,1) primary key not null ,
+AttDate nvarchar(50)   null,
+Status  nvarChar(50)  null,
+EmployeeId int  foreign key (EmployeeId) references Employee (EmployeeId),
+)
+
+
+
+
+
+
+
+--Student Admission
+create table AdmissionStatus 
+(
+AdmissionStatusId int primary key not null,
+Description nvarChar(30) not null ,-- Registered / Cancel Registration 
+)
+Insert Into AdmissionStatus (AdmissionStatusId,Description) values(1,'Admit'),(2,'Cancel Admission'),(3,'Re Admit'),(4,'StruckOff')
+
+create table Student
+(
+StudentId int identity(1,1) primary key  not null,
+ClassNo nvarChar(30) not null ,
+StudentName varchar(80)   null,
+DateOfAdmission nvarchar(50)   null,
+FatherName varchar(80)   null,
+CNIC nvarchar(20)   null,
+FatherCNIC nvarchar(20)   null,
+Gender nvarchar(50)  null,
+DateOfBirth nvarchar(50)   null,
+StudentAddress nvarchar(150)   null,
+Bloodgroup nvarchar(10)   null,
+ContactNo nvarchar(20)   null,
+GuardianName varchar(50)   null,
+GuardianContactNo varchar(50)   null,
+GuardianAddress varchar(150)   null,
+Photo Image  null,
+AdmissionStatusId int  foreign key (AdmissionStatusId) references AdmissionStatus (AdmissionStatusId) ,-- Admitted , Cancel Admission , Re Admission
+SessionId int foreign key (SessionId) references Session (SessionId) ,
+DepartmentId int foreign key (DepartmentId) references Department (DepartmentId), 
+)
+
+
+
+
+
+
+--IdCard Table--
+create table IdCard     
+(
+IdCardId int Identity(1,1) primary key not null ,
+IssueDate nvarchar(50) null,
+ExpiryDate nvarchar(50) null,
+StudentId int  foreign key (StudentId) references Student (StudentId) Unique  ,  -- one to one 
+)
+
+
+
+
+--Semester Fees Tables
+
+
+
+create table SemesterFees
+(
+SemesterFeeId int Identity(1,1) primary key not null ,
+SemesterFee int  null,
+OtherFee int   null,
+TotalFee int   null,
+SemesterId int foreign key (SemesterId) references Semester (SemesterId),
+DepartmentId int foreign key (DepartmentId) references Department (DepartmentId),
+)
+create table SemesterFeePayment
+(
+FeePaymentId int Identity(1,1) primary key not null ,
+DateOfPayment nvarchar(50)  null,
+Status nvarChar(50) null,
+SemesterFeeId int  foreign key (SemesterFeeId) references SemesterFees (SemesterFeeId),
+StudentId int  foreign key (StudentId) references Student (StudentId),
+)
+
+
+
+--Hostel Tables
+
+
+
+create table Hostel
+(
+HostelId int Identity(1,1) primary key not null ,
+HostelName nvarchar(100)   null,
+HostelFee int null,
+)
+create table Hostelers
+(
+HostelerId int Identity(1,1) primary key not null ,
+JoiningDate nvarchar(50) null,
+StudentId int  foreign key (StudentId) references Student (StudentId) Unique,
+HostelId int  foreign key (HostelId) references Hostel (HostelId),
+)
+create table HostelFeePayment
+(
+HFeePaymentId int Identity(1,1) primary key not null ,
+Year varchar(50)   null,
+DateOfPayment varchar(50)   null,
+ModeOfPayment nvarchar(50)   null,
+TotalPaid int   null,
+Fine int   null,
+DueFee int   null,
+HostelerId int  foreign key (HostelerId) references Hostelers (HostelerId),
+HostelId int  foreign key (HostelId) references Hostel (HostelId),
+UserId int  foreign key (UserId) references Users (UserId),
+)
+
+
+
+
+
+
+-- Stduent Registration
+
+
+
+create table RegistrationDeficiency
+(
+RegistrationDeficiencyId int  primary key not null,
+Description nvarChar(30) not null ,-- No Deficiency/Migration etc 
+)
+Insert Into RegistrationDeficiency (RegistrationDeficiencyId,Description) values(1,'No Deficiency'),(2,'Migration')
+
+create table RegistrationStatus 
+(
+RegistrationStatusId int primary key not null,
+Description nvarChar(30) not null ,-- Registered / Cancel Registration 
+)
+Insert Into RegistrationStatus (RegistrationStatusId,Description) values(1,'Registered'),(2,'Cancel Registration')
+
+create table StudentRegistration
+(
+StdRegId int identity(1,1) primary key not null,
+RegNo nvarChar(30) not null ,
+RollNo  nvarchar(50)   null,
+Class nvarChar(30) not null ,--SSC / HSSC
+YearOfPassing nvarchar(50) null,
+HSRollNo nvarchar(50) null,
+HSMarks  nvarchar(50)   null,
+HSPercentage  float  null,
+BoardName  nvarchar(50)  null,
+StudentId int foreign key (StudentId) references Student (StudentId) Unique ,
+RegistrationDeficiencyId int foreign key (RegistrationDeficiencyId) references RegistrationDeficiency (RegistrationDeficiencyId) ,
+RegistrationStatusId int foreign key (RegistrationStatusId) references RegistrationStatus (RegistrationStatusId) ,
+)
+
+
+
+
+--Event Table--
+create table Event
+(
+EventId int identity(1,1) primary key  not null,
+EventName  nvarchar(80)   null,
+StartingDate  nvarchar(50)   null,
+StartingTime nvarchar(50)   null,
+EndingDate nvarchar(50)   null,
+EndingTime nvarchar(50)   null,
+Activities nvarchar(300)   null,
+)
+
+--Event Table--
+create table EventManagedBy
+(
+EventManagedById int identity(1,1) primary key  not null,
+EventId int foreign key (EventId) references Event (EventId),
+EmployeeId int foreign key (EmployeeId) references Employee (EmployeeId) ,
+)
+
+
+
+
+
+
+create table PersonalLedger
+(
+PersonalLedgerId int identity(1,1) primary key  not null,
+RecieptNo  nvarchar(50)   null,
+Date  nvarchar(50)   null,
+GF int   null,
+PF int   null,
+Security int   null,
+FineReciept int   null,
+Semester varchar(50) null, -- first and Second ,third and Fourth
+StudentId int foreign key (StudentId) references Student (StudentId) ,
+)
+
+
+
+
+----Student Status--
+create table StudentStatus
+(
+StudentStatusId int  primary key not null ,
+Status nvarchar(70)   null,   -- Pass Fail
+)
+Insert Into StudentStatus (StudentStatusId,Status) values(1,'Pass'),(2,'Fail')
+
+
+----Exam Status--
+create table ExamStatus     
+(
+ExamStatusId int Identity(1,1) primary key not null ,
+Status nvarchar(70)   null, -- repeated / Fresh / SCE /Makeup
+)
+
+Insert Into ExamStatus (Status) values('Fresh'),('Repeat'),('SCE'),('Makeup')
+
+
+
+--Result Table--
+create table Result     
+(
+ResultId int identity(1,1) primary key not null ,
+ExamDate nvarchar(50)   null,
+Mid int   null,
+Presentation int   null,
+Assignment int   null,
+Quizz int   null,
+Lab int null,
+Final int   null,
+TotalObtainedMarks int   null,
+value float null,-- 86 = 4.0 70 = 3.2 etc
+GP float null,  -- Value *CH Of The Subject
+Grade nvarChar(50) null,  -- Grade A B C D E F
+StudentId int  foreign key (StudentId) references Student (StudentId) ,
+SubjectId int foreign key (SubjectId) references Subject(SubjectId) , -- Select From Subject Details that which one`s semester and clas name and Faculty`s SUBJECT
+DepartmentId int foreign key (DepartmentId) references Department(DepartmentId) ,
+SessionId int foreign key (SessionId) references Session(SessionId) ,
+SemesterId int foreign key (SemesterId) references Semester(SemesterId) ,
+EmployeeId int foreign key (EmployeeId) references Employee (EmployeeId) ,
+ExamStatusId int foreign key (ExamStatusId) references ExamStatus (ExamStatusId) ,-- repeated / Fresh / SCE /Makeup
+StudentStatusId int foreign key (StudentStatusId) references StudentStatus (StudentStatusId) 
+)
+
+
+create table SemesterResult     
+(
+SemesterResultId int identity(1,1) primary key not null ,
+Status nvarChar(50) null,  -- First probation ,Second probation ,last probation & promoted 
+CGPA float null, --CGPA Of Each Semester 
+CCH Int null, --Comulative CreditHours Of Semesters
+CGP float null, --Comulative Grade Points Of Semesters
+GPA float null, --GPA Of Each Semster 
+StudentId int  foreign key (StudentId) references Student (StudentId) ,
+DepartmentId int foreign key (DepartmentId) references Department(DepartmentId) ,
+SessionId int foreign key (SessionId) references Session(SessionId) ,
+SemesterId int foreign key (SemesterId) references Semester(SemesterId) ,
+)
+
+
+--OtherTransaction Table--
+create table OtherTransaction     
+(
+TransactionId int Identity(1,1) primary key not null ,
+TransactionType nvarchar(70)   null,
+Date nvarchar(50)   null,
+Amount nvarchar(50) null,
+Description nvarchar(100)   null,
+UserId int  foreign key (UserId) references Users (UserId),
+)
+
+
+
+
+
+
+--- Users Data
+
+
+
+--UserRegistration Table--
+create table  Role    
+(
+RoleId int  primary key not null,
+Description Nvarchar(50)  null , -- Admin ,Admission Officier,Prfessor/Lecturer
+)
+Insert Into Role (RoleId,Description) values(1,'Admin'),(2,'Admission Officier'),(3,'Professor'),(4,'Lecturer')
+
+
+--UserRegistration Table--
+create table  Users    
+(
+UserId int Identity(1,1) primary key not null,
+UserName Nvarchar(50)  null ,
+Password nvarchar(50)   null,
+ContactNo nvarchar(50)   null,
+Email nvarchar(50)   null,
+Name nvarchar(90)   null,
+DateOfJoining nvarchar(50)   null,
+RoleId int foreign key (RoleId) references Role (RoleId) ,
+)
+Insert Into Users (UserName,Password,ContactNo,Email,Name,DateOfJoining,RoleId) 
+values('Admin@gmail.com','1234567890' ,'03446025352','admin@gmail.com','Admin','12/10/2021',1),
+('Professor@gmail.com','1234' ,'03446025352','professor@gmail.com','Professor','12/10/2021',3),
+('Admin','Admin' ,'1234567890','admin@gmail.com','Admin','12/10/2021',1),
+('AdmissionOfficier@gmail.com','1234' ,'03446025352','admissionOfficier@gmail.com','AdmissionOfficier','12/10/2021',2),
+('Lecturer@gmail.com','1234' ,'03446025352','Lecturer@gmail.com','Lecturer','12/10/2021',4),
+('User','476245Ismail' ,'03446025352','352ismailkhan@gmail.com','Ismail Khan','12/10/2020',3);
+
+
+
+
